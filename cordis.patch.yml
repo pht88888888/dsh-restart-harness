@@ -1,0 +1,4 @@
+# Add this entry to the target profile's cordis.patch.yml.
+- insert:
+    - id: dsh-restart-harness
+      name: 'dsh-restart-harness'
